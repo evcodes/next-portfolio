@@ -1,0 +1,14 @@
+.bottom-nav-container{
+    position: fixed;
+    bottom: 0;
+    width: 40%;
+    min-width: 600px;
+    height: 56px;
+    background-color: #dbdbdb;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    z-index: 100;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
