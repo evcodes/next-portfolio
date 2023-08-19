@@ -14,7 +14,7 @@ export default function Home() {
         </p>
         <br />
         <h1>
-          If you&apos;re a recruiter here&apos;s my{" "}
+          If you&apos;re looking to hire, here&apos;s my{" "}
           <a className = "link"href="/Aug2023.pdf">resume.</a>
         </h1>
          {/* <div>
