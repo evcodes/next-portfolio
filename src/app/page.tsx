@@ -1,5 +1,5 @@
-import BottomNav from "../components/navigation/bottom-nav";
-import Main from "../components/main";
+import BottomNav from "./components/navigation/bottom-nav";
+import Main from "./components/main";
 import Link from "next/link";
 
 export default function Home() {
