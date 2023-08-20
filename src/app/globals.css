@@ -31,6 +31,13 @@
   }
 }
 
+@media screen and (max-width: 640px) {
+  :root{
+    padding: 20px;
+  
+  }
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
